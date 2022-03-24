@@ -108,3 +108,4 @@ for i in range(10):
     except:
         print('下载出错')
         await asyncio.sleep((i+1)*5)    #可以适当的进行睡眠
+        #添加的测试内容
