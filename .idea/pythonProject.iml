@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/venv" />
+      <excludeFolder url="file://$MODULE_DIR$/reptile_01/novel" />
+      <excludeFolder url="file://$MODULE_DIR$/reptile_01/movies" />
+      <excludeFolder url="file://$MODULE_DIR$/reptile_01/img" />
+      <excludeFolder url="file://$MODULE_DIR$/tutorial_test/test" />
+      <excludeFolder url="file://$MODULE_DIR$/tutorial_test/train" />
+      <excludeFolder url="file://$MODULE_DIR$/tutorial_test/logs" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="selenium_python_base" />
+  </component>
+</module>

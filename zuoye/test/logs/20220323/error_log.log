@@ -1,0 +1,143 @@
+2022-03-23 18:22:20,951 ERROR   : start is error,here are details:Traceback (most recent call last):
+  File "C:\Users\zheng\PycharmProjects\pythonProject\zuoye\test\test_log\decora.py", line 14, in log
+    return func(*args,**kwargs)
+  File "C:/Users/zheng/PycharmProjects/pythonProject/zuoye/test/运行.py", line 21, in start
+    a = 1/0
+ZeroDivisionError: division by zero
+
+2022-03-23 18:37:17,386 ERROR   : start is error,here are details:Traceback (most recent call last):
+  File "C:\Users\zheng\PycharmProjects\pythonProject\zuoye\test\test_log\decora.py", line 14, in log
+    fu=func(*args, **kwargs)
+  File "C:/Users/zheng/PycharmProjects/pythonProject/zuoye/test/运行.py", line 23, in start
+    a = 1/0
+ZeroDivisionError: division by zero
+
+2022-03-23 18:37:55,758 ERROR   : start is error,here are details:Traceback (most recent call last):
+  File "C:\Users\zheng\PycharmProjects\pythonProject\zuoye\test\test_log\decora.py", line 15, in log
+    fu=func(*args, **kwargs)
+  File "C:/Users/zheng/PycharmProjects/pythonProject/zuoye/test/运行.py", line 23, in start
+    a = 1/0
+ZeroDivisionError: division by zero
+
+2022-03-23 18:44:23,970 ERROR   : start is error,here are details:Traceback (most recent call last):
+  File "C:\Users\zheng\PycharmProjects\pythonProject\zuoye\test\test_log\decora.py", line 16, in log
+    return func(*args, **kwargs)
+  File "C:/Users/zheng/PycharmProjects/pythonProject/zuoye/test/运行.py", line 23, in start
+    a = 1/0
+ZeroDivisionError: division by zero
+
+2022-03-23 18:44:33,126 ERROR   : start is error,here are details:Traceback (most recent call last):
+  File "C:\Users\zheng\PycharmProjects\pythonProject\zuoye\test\test_log\decora.py", line 16, in log
+    return func(*args, **kwargs)
+  File "C:/Users/zheng/PycharmProjects/pythonProject/zuoye/test/运行.py", line 23, in start
+    a = 1/0
+ZeroDivisionError: division by zero
+
+2022-03-23 18:48:50,308 ERROR   : start is error,here are details:Traceback (most recent call last):
+  File "C:\Users\zheng\PycharmProjects\pythonProject\zuoye\test\test_log\decora.py", line 27, in log
+    return func(*args, **kwargs)
+  File "C:/Users/zheng/PycharmProjects/pythonProject/zuoye/test/运行.py", line 23, in start
+    a = 1/0
+ZeroDivisionError: division by zero
+
+2022-03-23 18:49:33,557 ERROR   : start is error,here are details:Traceback (most recent call last):
+  File "C:\Users\zheng\PycharmProjects\pythonProject\zuoye\test\test_log\decora.py", line 27, in log
+    return func(*args, **kwargs)
+  File "C:/Users/zheng/PycharmProjects/pythonProject/zuoye/test/运行.py", line 23, in start
+    a = 1/0
+ZeroDivisionError: division by zero
+
+2022-03-23 18:50:19,193 ERROR   : start is error,here are details:Traceback (most recent call last):
+  File "C:\Users\zheng\PycharmProjects\pythonProject\zuoye\test\test_log\decora.py", line 27, in log
+    return func(*args, **kwargs)
+  File "C:/Users/zheng/PycharmProjects/pythonProject/zuoye/test/运行.py", line 23, in start
+    a = 1/0
+ZeroDivisionError: division by zero
+
+2022-03-23 18:52:48,574 ERROR   : start is error,here are details:Traceback (most recent call last):
+  File "C:\Users\zheng\PycharmProjects\pythonProject\zuoye\test\test_log\decora.py", line 27, in log
+    return func(*args, **kwargs)
+  File "C:/Users/zheng/PycharmProjects/pythonProject/zuoye/test/运行.py", line 25, in start
+    a = 1/0
+ZeroDivisionError: division by zero
+
+2022-03-23 18:53:38,023 ERROR   : start is error,here are details:Traceback (most recent call last):
+  File "C:\Users\zheng\PycharmProjects\pythonProject\zuoye\test\test_log\decora.py", line 27, in log
+    return func(*args, **kwargs)
+  File "C:/Users/zheng/PycharmProjects/pythonProject/zuoye/test/运行.py", line 25, in start
+    a = 1/0
+ZeroDivisionError: division by zero
+
+2022-03-23 18:58:14,443 ERROR   : start is error,here are details:Traceback (most recent call last):
+  File "C:\Users\zheng\PycharmProjects\pythonProject\zuoye\test\test_log\decora.py", line 27, in log
+    return func(*args, **kwargs)
+  File "C:/Users/zheng/PycharmProjects/pythonProject/zuoye/test/运行.py", line 26, in start
+    a = 1/0
+ZeroDivisionError: division by zero
+
+2022-03-23 18:58:48,061 ERROR   : start is error,here are details:Traceback (most recent call last):
+  File "C:\Users\zheng\PycharmProjects\pythonProject\zuoye\test\test_log\decora.py", line 27, in log
+    return func(*args, **kwargs)
+  File "C:/Users/zheng/PycharmProjects/pythonProject/zuoye/test/运行.py", line 26, in start
+    a = 1/0
+ZeroDivisionError: division by zero
+
+2022-03-23 18:59:11,964 ERROR   : start is error,here are details:Traceback (most recent call last):
+  File "C:\Users\zheng\PycharmProjects\pythonProject\zuoye\test\test_log\decora.py", line 27, in log
+    return func(*args, **kwargs)
+  File "C:/Users/zheng/PycharmProjects/pythonProject/zuoye/test/运行.py", line 26, in start
+    a = 1/0
+ZeroDivisionError: division by zero
+
+2022-03-23 19:00:28,620 ERROR   : start is error,here are details:Traceback (most recent call last):
+  File "C:\Users\zheng\PycharmProjects\pythonProject\zuoye\test\test_log\decora.py", line 27, in log
+    return func(*args, **kwargs)
+  File "C:/Users/zheng/PycharmProjects/pythonProject/zuoye/test/运行.py", line 26, in start
+    a = 1/0
+ZeroDivisionError: division by zero
+
+2022-03-23 19:03:00,704 ERROR   : test_login_111 is error,here are details:Traceback (most recent call last):
+  File "C:\Users\zheng\PycharmProjects\pythonProject\zuoye\test\test_log\decora.py", line 27, in log
+    return func(*args, **kwargs)
+  File "C:\Users\zheng\PycharmProjects\pythonProject\zuoye\zuoyeAll\four\WorkPortal\Gulou\test_case\test_新增用户_编辑用户_验证用户_删除用户_执行上次作业.py", line 44, in test_login_111
+    UserCenter(br).user_management_add()  # 新增用户
+  File "C:\Users\zheng\PycharmProjects\pythonProject\zuoye\zuoyeAll\four\WorkPortal\Gulou\business\用户中心_business.py", line 43, in user_management_add
+    self.user_management_click()  #进入 用户管理
+  File "C:\Users\zheng\PycharmProjects\pythonProject\zuoye\zuoyeAll\four\WorkPortal\Gulou\business\用户中心_business.py", line 34, in user_management_click
+    self.browser.driver.find_element_by_xpath("//span[contains(text(),'用户管理')]").click()  # 用户管理
+  File "C:\Users\zheng\PycharmProjects\pythonProject\venv\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 394, in find_element_by_xpath
+    return self.find_element(by=By.XPATH, value=xpath)
+  File "C:\Users\zheng\PycharmProjects\pythonProject\venv\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 978, in find_element
+    'value': value})['value']
+  File "C:\Users\zheng\PycharmProjects\pythonProject\venv\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\zheng\PycharmProjects\pythonProject\venv\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//span[contains(text(),'用户管理')]"}
+  (Session info: chrome=99.0.4844.51)
+  (Driver info: chromedriver=2.35.528161 (5b82f2d2aae0ca24b877009200ced9065a772e73),platform=Windows NT 10.0.19043 x86_64)
+
+
+2022-03-23 19:12:59,173 ERROR   : test_login_111 is error,here are details:Traceback (most recent call last):
+  File "C:\Users\zheng\PycharmProjects\pythonProject\zuoye\test\test_log\decora.py", line 27, in log
+    return func(*args, **kwargs)
+  File "C:\Users\zheng\PycharmProjects\pythonProject\zuoye\zuoyeAll\one\WorkPortal\Gulou\test_case\test_业务门户_快速链接_新增_编辑_删除.py", line 34, in test_login_111
+    data=get_csv_data(self.csv_file,1)  #用文件csv_file 的 第2行
+  File "C:\Users\zheng\PycharmProjects\pythonProject\zuoye\zuoyeAll\one\WorkPortal\Gulou\data\testdata.py", line 6, in get_csv_data
+    zs_csv_file= open(csv_file, 'r', encoding='utf-8-sig')# 打开文件
+FileNotFoundError: [Errno 2] No such file or directory: 'D:\\xyProject\\WorkPortal\\Gulou\\data\\account_login_gulou.csv'
+
+2022-03-23 19:19:24,927 ERROR   : start is error,here are details:Traceback (most recent call last):
+  File "C:\Users\zheng\PycharmProjects\pythonProject\zuoye\test\test_log\decora.py", line 27, in log
+    return func(*args, **kwargs)
+  File "C:/Users/zheng/PycharmProjects/pythonProject/zuoye/test/运行.py", line 27, in start
+    a = 1/0
+ZeroDivisionError: division by zero
+
+2022-03-23 19:20:27,601 ERROR   : start is error,here are details:Traceback (most recent call last):
+  File "C:\Users\zheng\PycharmProjects\pythonProject\zuoye\test\test_log\decora.py", line 27, in log
+    return func(*args, **kwargs)
+  File "C:/Users/zheng/PycharmProjects/pythonProject/zuoye/test/运行.py", line 26, in start
+    a = 1/0
+ZeroDivisionError: division by zero
+
